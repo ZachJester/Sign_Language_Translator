@@ -1,1 +1,1 @@
-# Sign_Language_Translator
+# Sign-Language-Translator
